@@ -1,0 +1,13 @@
+body{
+	background-image: url("../img/SwissAlps.jpg");
+	background-size: cover;
+}
+
+h5{
+	font-family: 'DM Serif Display', serif;
+}
+
+p{
+	
+	font-family: 'PT Sans', sans-serif;
+}
